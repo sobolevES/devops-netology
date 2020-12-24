@@ -1,6 +1,8 @@
 # devops-netology
-# edit file
 
+#  >>>comment for homework/3 - Switch
+
+# edit file
 ####### .gitignore #####
 #  https://github.com/github/gitignore/blob/master/Terraform.gitignore#L1
 #
